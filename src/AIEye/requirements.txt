@@ -6,3 +6,4 @@ flask_restful
 flask_mongoengine
 gevent
 tensorflow
+pip install
