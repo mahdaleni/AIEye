@@ -1,6 +1,6 @@
 FROM tensorflow/tensorflow:latest-py3
 
-WORKDIR /home/web
+
 
 COPY requirements.txt /home/web/requirements.txt
 
